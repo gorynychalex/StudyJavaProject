@@ -11,7 +11,7 @@ public class Main {
 
         double y = Math.pow(x, r);
 
-        System.out.println("Результат: "  + y);
+        System.out.println("Результат:"  + y);
     }
 
 
